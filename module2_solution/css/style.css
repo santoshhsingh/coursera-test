@@ -110,7 +110,7 @@ p {
 }
 
 /********** small devices only **********/
-@media (lax-width: 767px) {
+@media (max-width: 767px) {
   .col-ld-1, .col-ld-2, .col-ld-3, .col-ld-4, .col-ld-5, .col-ld-6, .col-ld-7, .col-ld-8, .col-ld-9, .col-ld-10, .col-ld-11, .col-ld-12 {
     float: left;
     border: 1px solid green;
